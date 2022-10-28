@@ -1,1 +1,6 @@
-## 프로젝트 readme 파일 하단에 작성해주세요~ 
+## 사용된 기술 스택
+* HTML
+* CSS
+* React
+* Redux
+* Java(Spring)
